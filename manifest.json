@@ -1,0 +1,24 @@
+{
+  "name": "Atelier — Fashion Studio CRM",
+  "short_name": "Atelier",
+  "description": "Luxury Fashion Designer CRM",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F6F1",
+  "theme_color": "#1C1C1E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
